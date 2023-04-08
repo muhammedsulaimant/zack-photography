@@ -93,7 +93,7 @@ h6 {
 */
 .navbar {
   padding: 0;
-  margin-left: 80px;
+  margin-left: 0px;
 }
 
 .navbar ul {
@@ -102,7 +102,7 @@ h6 {
   display: flex;
   list-style: none;
   
-  margin-left: px;
+  margin-left: 0px;
 }
 
 .navbar li {
