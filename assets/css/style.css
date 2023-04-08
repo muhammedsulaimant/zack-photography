@@ -102,11 +102,11 @@ h6 {
   display: flex;
   list-style: none;
   
-  margin-left: 230px;
+  margin-left: 380px;
 }
 
 .navbar li {
-  position: relative;
+  position: center;
 }
 
 .navbar a,
@@ -129,7 +129,7 @@ h6 {
 .navbar a:focus i {
   font-size: 12px;
   line-height: 0;
-  margin-left: 5px;
+  margin-left: 385px;
 }
 
 .navbar a:hover,
