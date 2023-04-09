@@ -94,6 +94,7 @@ h6 {
 .navbar {
   padding: 0;
   margin-left: 0px;
+      margin-left: -148px;
 }
 
 .navbar ul {
